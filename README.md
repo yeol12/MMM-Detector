@@ -1,6 +1,10 @@
-# MMM-Porcupine
+# MMM-Detector
 
-New detector for assistants !
+New detectors for assistants !
+
+Multi-keyword listener with
+* Snowboy Features
+* Porcupine Features
 
 It will include:
   * Ok Google

@@ -1,0 +1,27 @@
+{
+  "name": "MMM-Detector",
+  "description": "An embedded keyword detector for MagicMirror and assistants.",
+  "scripts": {
+    "preinstall": "installer/preinstall.sh"
+  },
+  "keywords": [
+    "magic mirror",
+    "module",
+    "google",
+    "alexa",
+    "embedded",
+    "assistant for device",
+    "snowboy",
+    "porcupine"
+  ],
+  "author": "bugsounet",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://forum.bugsounet.fr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugsounet/MMM-Detector"
+  },
+  "homepage": "https://github.com/bugsounet/MMM-Detector"
+}

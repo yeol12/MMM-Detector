@@ -61,5 +61,11 @@ Installer_info "Checking all dependencies..."
 Installer_check_dependencies
 Installer_success "All Dependencies needed are installed !"
 
+# switch branch
+Installer_info "Installing Sources..."
+git checkout -f master 2>/dev/null || Installer_error "Installing Error !"
+git pull 2>/dev/null
+
 echo
 Installer_info "Installing npm libraries..."
+npm prune

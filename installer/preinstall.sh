@@ -28,11 +28,8 @@ rm installer.log 2>/dev/null
 # logs in installer.log file
 Installer_log
 
-# check version
-Installer_version="$(cat ../package.json | grep version | cut -c15-19 2>/dev/null)"
-
 # Let's start !
-Installer_info "Welcome to MMM-Detector v$Installer_version"
+Installer_info "Welcome to MMM-Detector installer!"
 
 echo
 

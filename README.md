@@ -14,8 +14,3 @@ It will include:
   * Hey Siri
   * Computer
   * ...
-
-
-![](https://raw.githubusercontent.com/bugsounet/coding/main/undercoding.gif)
-
-Please Wait: I code it :)

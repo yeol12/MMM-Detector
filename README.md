@@ -1,5 +1,7 @@
 # MMM-Detector
 
+![](https://raw.githubusercontent.com/bugsounet/MMM-Detector/main/MMM-Detector.png)
+
 New detectors for assistants !
 
 Multi-keyword listener with
@@ -14,3 +16,5 @@ It will include:
   * Hey Siri
   * Computer
   * ...
+
+All informations is now the [wiki](http://wiki.bugsounet.fr/en/MMM-Detector)

@@ -101,4 +101,4 @@ git pull 2>/dev/null
 
 echo
 Installer_info "Installing npm libraries..."
-npm prune
+cd ..
